@@ -1,2 +1,2 @@
-# repo-template
-Template for another repositories
+# nice-{component}
+[TODO] write component description
