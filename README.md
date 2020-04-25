@@ -4,7 +4,7 @@
 ## Installation
 Run the following to install this library:
 ```bash
-$ composer require niceshops-dev/nice-{component}
+$ composer require niceshops/nice-{component}
 ```
 
 or if composer package is not available add the following to your composer.json
@@ -12,10 +12,10 @@ or if composer package is not available add the following to your composer.json
 "repositories": [
     {
         "type": "vcs",
-        "url": "https://github.com/niceshops-dev/nice-{component}"
+        "url": "https://github.com/niceshops/nice-{component}"
     }
 ],
 "require": {
-    "niceshops-dev/nice-{component}": "dev-master"
+    "niceshops/nice-{component}": "dev-master"
 }
 ```
