@@ -1,5 +1,7 @@
 # nice-{component}
 [TODO] write component description
+[TODO] replace {component} and {Component} with component name
+[TODO] replace ComponentNamespace with component namespace
 
 ## Installation
 Run the following to install this library:
