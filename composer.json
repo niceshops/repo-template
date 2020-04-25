@@ -3,19 +3,20 @@
     "description": "Niceshops {Component}",
     "license" : "BSD-3-Clause",
     "require": {
-        "php": ">=7.2.0"
+        "php": ">=7.2.0",
+        "niceshops/nice-core": "^1.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.2"
     },
     "autoload": {
         "psr-4": {
-            "NiceshopsDev\\Nice{Component}\\": "src/"
+            "NiceshopsDev\\ComponentNamespace\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "NiceshopsDev\\Nice{Component}\\": "test/"
+            "NiceshopsDev\\ComponentNamespace\\": "test/"
         }
     },
     "scripts": {
